@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TeslaMain
+comment0.text=\r\n\ **\ Disclamer\:\ \r\n\ This\ program\ is\ intended\ for\ our\ CSCI117\ (Java\ Programming)\ project\ during\ Fall\ 2020\ semester.\ \r\n\ No\ one\ in\ this\ group\ is\ affiliated\ with\ Tesla\ and\ the\ brand.\ All\ rights\ go\ to\ the\ Tesla\ company.\r\n\ This\ program\ is\ designed\ for\ educational\ purposes\ ONLY\ and\ to\ not\ be\ used\ elsewhere.\ **\r\n\ \r\n\ This\ project\ is\ developed\ to\ create\ a\ online\ Tesla\ dealership\ where\ the\ user\ can\ pick\ and\ customize\ a\ Tesla\ model\ to\ their\ needs.\r\n\ \r\n\ CSCI117\ Group\ Project\:\ Tesla\ Car\ Selector\ (Fall\ 2020\ Semester)\r\n\ Group\ Members\:\ \r\n\ 1)\ Abdullah\ Hilal\ Siddiqi\ (0340932)\ \r\n\ 2)\ Jeremey\ Lim\ Zheng\ Yuan\ (0340334)\r\n\ 3)\ Saishnu\ Ramesh\ Kumar\ (0341646)\r\n\ 4)\ Muhammad\ Nazrin\ Hakim\ bin\ Nazarudin\ (0339787)\r\n\ 5)\ Idlan\ Fahmi\ Muhammad\ Azmi\ (0341723)\r\n\ 6)\ Chin\ Chong\ Yi\ (0339756)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ Lecturer\:\ Dr.\ Azeem\ Khan\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input\ choice\ car
+comment2.target=void\ ConfirmOrder(java.util.Scanner,\ int,\ TeslaCar)
+comment3.params=x\ name
+comment3.target=void\ Receipt(int,\ java.lang.String)
+comment3.text=\r\n\ This\ is\ the\ Receipt\ function.\ (Under\ construction\ -Abdullah)\r\n\ Takes\ price\ of\ car\ chosen,\ with\ all\ relevant\ specs\ pricing\r\n\ Taken\ payment\ plan\ chosen\r\n\ Displays\ above\ data\ into\ a\ generated\ receipt\ for\ customer\r\n\ sidequest\:\ Create\ a\ .txt\ file\ to\ also\ hold\ receipt\r\n
+numComments=4

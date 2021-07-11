@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Model3
+comment1.params=
+comment1.target=Model3()
+comment2.params=colors
+comment2.target=void\ setInteriorColors(java.lang.String[])
+comment3.params=colors
+comment3.target=void\ setExteriorColors(java.lang.String[])
+comment4.params=x
+comment4.target=java.lang.String\ getInteriorColors(int)
+comment5.params=x
+comment5.target=java.lang.String\ getExteriorColors(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

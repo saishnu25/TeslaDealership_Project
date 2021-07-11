@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ModelXPerformanceVar
+comment1.params=
+comment1.target=ModelXPerformanceVar()
+comment2.params=wheelSize
+comment2.target=void\ setWheelSize(int[])
+comment3.params=x
+comment3.target=int\ getWheelSize(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
